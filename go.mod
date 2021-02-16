@@ -1,4 +1,4 @@
-module github.com/jenkins-x/jx-helpers/v3
+module github.com/ramtandukarntt/jx-helpers/v3
 
 require (
 	cloud.google.com/go v0.76.0 // indirect
@@ -21,10 +21,10 @@ require (
 	github.com/googleapis/gnostic v0.5.4 // indirect
 	github.com/gophercloud/gophercloud v0.15.0 // indirect
 	github.com/imdario/mergo v0.3.11 // indirect
-	github.com/jenkins-x/go-scm v1.5.216
-	github.com/jenkins-x/jx-api/v4 v4.0.24
-	github.com/jenkins-x/jx-kube-client/v3 v3.0.2
-	github.com/jenkins-x/jx-logging/v3 v3.0.3
+	github.com/ramtandukarntt/go-scm v1.5.217
+	github.com/ramtandukarntt/jx-api/v4 v4.0.25
+	github.com/ramtandukarntt/jx-kube-client/v3 v3.0.3
+	github.com/ramtandukarntt/jx-logging/v3 v3.0.4
 	github.com/magiconair/properties v1.8.4
 	github.com/mattn/go-colorable v0.1.7 // indirect
 	github.com/onsi/ginkgo v1.11.0
