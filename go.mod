@@ -21,15 +21,15 @@ require (
 	github.com/googleapis/gnostic v0.5.4 // indirect
 	github.com/gophercloud/gophercloud v0.15.0 // indirect
 	github.com/imdario/mergo v0.3.11 // indirect
-	github.com/ramtandukarntt/go-scm v1.5.217
-	github.com/ramtandukarntt/jx-api/v4 v4.0.25
-	github.com/ramtandukarntt/jx-kube-client/v3 v3.0.3
-	github.com/ramtandukarntt/jx-logging/v3 v3.0.4
 	github.com/magiconair/properties v1.8.4
 	github.com/mattn/go-colorable v0.1.7 // indirect
 	github.com/onsi/ginkgo v1.11.0
 	github.com/onsi/gomega v1.7.0
 	github.com/pkg/errors v0.9.1
+	github.com/ramtandukarntt/go-scm v1.5.217
+	github.com/ramtandukarntt/jx-api/v4 v4.0.25
+	github.com/ramtandukarntt/jx-kube-client/v3 v3.0.2
+	github.com/ramtandukarntt/jx-logging/v3 v3.0.4
 	github.com/russross/blackfriday v1.6.0
 	github.com/satori/go.uuid v1.2.1-0.20180103174451-36e9d2ebbde5
 	github.com/sirupsen/logrus v1.7.0
@@ -40,13 +40,10 @@ require (
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad // indirect
 	golang.org/x/oauth2 v0.0.0-20210201163806-010130855d6c // indirect
 	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf // indirect
-	golang.org/x/text v0.3.5 // indirect
 	golang.org/x/time v0.0.0-20201208040808-7e3f01d25324 // indirect
-	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/src-d/go-git.v4 v4.13.1
 	gopkg.in/yaml.v2 v2.4.0
-	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 	k8s.io/api v0.20.2
 	k8s.io/apimachinery v0.20.2
 	k8s.io/client-go v11.0.0+incompatible
